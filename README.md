@@ -8,8 +8,7 @@
 ---
 
 ### 🌱 About Me
-- Currently learning **React.js, Node.js, Express, MongoDB**  
-- Passionate about building **real-world web applications**  
+- Currently learning **React.js, Node.js, Express, MongoDB**   
 - 💬 Ask me about **React, HTML, CSS, JavaScript**  
 - 📫 Reach me at **np05cp4a240227@iic.edu.np**  
 
